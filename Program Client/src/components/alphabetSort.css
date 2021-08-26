@@ -6,7 +6,7 @@
 }
 .alphasort-card{
     border: 1px solid grey;
-    border-radius: 5px;
+    border-radius: 10px;
     background-color: #fff;
     width:400px;
     height:350px;
@@ -26,4 +26,7 @@
     width:70px;
     height:30px;
     margin-top: 20px;
+    background-color: #8FC1D4;
+    border:none;
+    border-radius: 5px;
 }
